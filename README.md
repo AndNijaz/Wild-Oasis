@@ -44,10 +44,10 @@ The application is designed for:
 ![Dashboard](img/dashboard.png)
 
 ### Booking Management
-![Booking Management](img/booking-management.png)
+![Booking Management](img/booking.png)
 
 ### Cabins Management
-![Booking Management](img/booking-management.png)
+![Booking Management](img/cabins.png)
 
 > *Screenshots are stored in the `/img` directory.*
 
