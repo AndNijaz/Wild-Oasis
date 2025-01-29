@@ -1,8 +1,6 @@
 # Wild Oasis: Modern Booking and Management System
 
-[Live Demo](https://wildn-oasis.netlify.app/)
-
-[Repository Link](https://github.com/AndNijaz/Wild-Oasis)
+You can see the website here:: [Live Demo](https://wildn-oasis.netlify.app/)
 
 ## Project Description
 Wild Oasis is a feature-rich booking and management application designed for hospitality and resort management. Built with modern web technologies, this project showcases advanced UI/UX patterns, authentication mechanisms, and data visualization techniques. The application follows best practices in professional development, ensuring scalability and maintainability.
@@ -32,43 +30,10 @@ Wild Oasis is a feature-rich booking and management application designed for hos
 
 ---
 
-## Setup Instructions
-To run this project locally, follow these steps:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/AndNijaz/Wild-Oasis.git
-   ```
-
-2. Navigate to the project directory:
-   ```bash
-   cd Wild-Oasis
-   ```
-
-3. Install dependencies:
-   ```bash
-   npm install
-   ```
-
-4. Create a `.env` file and configure Supabase credentials:
-   ```env
-   REACT_APP_SUPABASE_URL=your_supabase_url
-   REACT_APP_SUPABASE_ANON_KEY=your_supabase_anon_key
-   ```
-
-5. Start the development server:
-   ```bash
-   npm start
-   ```
-
-6. Open `http://localhost:3000` in your browser to view the application.
-
----
-
 ## Usage
 The application is designed for:
 - **Resort Owners & Managers**: Managing bookings, guests, and reports.
-- **Customers**: Booking stays and viewing resort details.
+- **Customers**: IN PROGRESS -- Booking stays and viewing resort details.
 - **Developers**: Learning about professional application development patterns.
 
 ---
@@ -79,6 +44,9 @@ The application is designed for:
 ![Dashboard](img/dashboard.png)
 
 ### Booking Management
+![Booking Management](img/booking-management.png)
+
+### Cabins Management
 ![Booking Management](img/booking-management.png)
 
 > *Screenshots are stored in the `/img` directory.*
@@ -94,9 +62,9 @@ This project is **actively developed**. Planned enhancements include:
 ---
 
 ## Acknowledgements
-This project follows best practices in modern React development, integrating advanced UI/UX and efficient state management. Special thanks to open-source contributors and resources that supported this development.
+This project follows best practices in modern React development, integrating advanced UI/UX and efficient state management. 
 
 ---
 
 ## License
-This project is licensed under the [MIT License](LICENSE).
+This project was developed as part of Jonas Schmedtmann’s "The Ultimate React Course."
