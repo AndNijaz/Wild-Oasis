@@ -44,7 +44,7 @@ The application is designed for:
 ![Dashboard](img/dashboard.png)
 
 ### Booking Management
-![Booking Management](img/booking.png)
+![Booking Management](img/bookings.png)
 
 ### Cabins Management
 ![Booking Management](img/cabins.png)
