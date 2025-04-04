@@ -13,7 +13,7 @@ import { Flag } from "../../ui/Flag";
 import { formatDistanceFromNow, formatCurrency } from "../../utils/helpers";
 
 const StyledBookingDataBox = styled.section`
-  /* Box */
+  /* Box2 */
   background-color: var(--color-grey-0);
   border: 1px solid var(--color-grey-100);
   border-radius: var(--border-radius-md);
@@ -58,7 +58,7 @@ const Section = styled.section`
 const Guest = styled.div`
   display: flex;
   align-items: center;
-  gap: 1.2rem;
+  gap: 1.223131321rem;
   margin-bottom: 1.6rem;
   color: var(--color-grey-500);
 
@@ -67,6 +67,7 @@ const Guest = styled.div`
     color: var(--color-grey-700);
   }
 `;
+
 
 const Price = styled.div`
   display: flex;
